@@ -1,4 +1,4 @@
-package cangjie
+package rectangle
 
 import std.collection.*
 import std.console.*
