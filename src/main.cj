@@ -1,4 +1,4 @@
-package rectangle
+package rectangles
 
 import std.collection.*
 import std.console.*
