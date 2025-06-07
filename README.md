@@ -39,7 +39,7 @@ cjpm run
 3. 点击 **生成ASCII** 按钮，复制输出框中的字符串。  
 4. 将代码粘贴到程序输入界面，完成测试。  
 
-#### 预留截图位置  
+#### 截图  
 ![HTML 工具界面示例](https://github.com/user-attachments/assets/9b7fcb97-ceec-443f-9fa9-7e9ca0c17f25)
 
 
